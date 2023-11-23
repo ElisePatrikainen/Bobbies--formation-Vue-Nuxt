@@ -33,9 +33,10 @@ hide: false
 src: ./pages/nuxt.md
 hide: false
 ---
-# Introduction : Vue.js et Nuxt
-
-Nous allons donc en premier lieu nous intéresser à Vue.js, puis nous basculerons sur Nuxt dans un second temps.
+---
+src: ./pages/introduction-end.md
+hide: false
+---
 ---
 layout: image-right
 image: https://source.unsplash.com/collection/94734566/1920x1080
