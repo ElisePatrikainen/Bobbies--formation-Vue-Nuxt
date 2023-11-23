@@ -1,0 +1,33 @@
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+<div id="app"></div>
+
+<script>
+  const { createApp, ref } = Vue
+  console.log(Vue);
+
+  const testComponent = Vue.defineComponent({
+    data: () => ({
+      message: 'Hello Vue from Component !'
+    }),
+    template: `
+      <span>{{ message }}</span>
+    `
+  })
+
+  const app = createApp({
+    data: () => ({
+      message: 'Hello Vue XX!',
+      message2: 'Hello Vue2!'
+    }),
+    components: {
+      testComponent
+    },
+    template: `
+      <span>{{ message }}</span>
+      <test-component></test-component>
+    `
+  })
+
+  app.mount('#app')
+  </script>
