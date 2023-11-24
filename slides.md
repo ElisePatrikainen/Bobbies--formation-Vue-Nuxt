@@ -185,6 +185,38 @@ image: https://source.unsplash.com/collection/94734566/1920x1080
 src: ./pages/vue-basis/application-props-directives.md
 hide: false
 ---
+---
+layout: image-right
+image: https://source.unsplash.com/collection/94734566/1920x1080
+---
+# L'API de composition
+---
+src: ./pages/vue-basis/composition-api/introduction.md
+hide: false
+---
+---
+src: ./pages/vue-basis/composition-api/api.md
+hide: false
+---
+---
+src: ./pages/vue-basis/composition-api/ref-reactive.md
+hide: false
+---
+---
+src: ./pages/vue-basis/composition-api/props-events.md
+hide: false
+---
+---
+src: ./pages/vue-basis/composition-api/application.md
+hide: false
+---
+
+---
+layout: image-right
+image: https://source.unsplash.com/collection/94734566/1920x1080
+---
+# Built-in components et special elements
+---
 # Learn More
 
 [Documentations](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/showcases.html)

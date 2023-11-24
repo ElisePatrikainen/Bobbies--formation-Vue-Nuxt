@@ -6,4 +6,6 @@ En effet, elle permet de proposer l'API d'un composant sous la forme de fonction
 
 Cela permet donc :
 - d'avoir plus de liberté dans l'écriture de nos composants
-- de pouvoir utiliser ces fonctions hors de nos composants (dans des 'services' appelés 'composables')
+- de pouvoir utiliser ces fonctions hors de nos composants (dans des 'services' appelés ['composables'](https://vuejs.org/guide/reusability/composables.html))
+
+*Nb: un ensemble de composables créés par la communauté, [VueUse}](https://vueuse.org/).*

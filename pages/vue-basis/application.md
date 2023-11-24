@@ -6,4 +6,7 @@ Créer un composant qui :
 - affiche le prix total des produits sélectionnés
 - affiche une alerte au bout de 15 secondes avec un code promotionnel
 
-Idéalement : tester ces actions avec Vitest.
+Idéalement : tester ces actions avec Vitest :
+- tester l'affichage du produit
+- tester le calcul du prix total
+- 
