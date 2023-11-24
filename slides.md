@@ -186,6 +186,10 @@ src: ./pages/vue-basis/application-props-directives.md
 hide: false
 ---
 ---
+src: ./pages/vue-basis/application-source.md
+hide: false
+---
+---
 layout: image-right
 image: https://source.unsplash.com/collection/94734566/1920x1080
 ---
