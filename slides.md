@@ -41,7 +41,7 @@ hide: false
 layout: image-right
 image: https://source.unsplash.com/collection/94734566/1920x1080
 ---
-# Introduction à Vue
+# Bases de Vue
 ---
 src: ./pages/vue1.md
 hide: false
@@ -214,13 +214,95 @@ hide: false
 src: ./pages/vue-basis/composition-api/application.md
 hide: false
 ---
-
+---
+src: ./pages/vue-basis/composition-api/application-template.md
+hide: false
+---
+---
+src: ./pages/vue-basis/composition-api/application-template2.md
+hide: false
+---
 ---
 layout: image-right
 image: https://source.unsplash.com/collection/94734566/1920x1080
 ---
 # Built-in components et special elements
 ---
+src: ./pages/vue-basis/built-in-components/built-in.md
+hide: false 
+---
+---
+src: ./pages/vue-basis/built-in-components/specials.md
+hide: false 
+---
+---
+src: ./pages/vue-basis/built-in-components/application.md
+hide: false 
+---
+---
+layout: image-right
+image: https://source.unsplash.com/collection/94734566/1920x1080
+---
+# Exercice de synthèse
+---
+src: ./pages/vue-basis/synthese/application.md
+hide: false 
+---
+---
+src: ./pages/vue-basis/synthese/source-modale.md
+hide: false 
+---
+---
+src: ./pages/vue-basis/synthese/source-input.md
+hide: false 
+---
+---
+layout: image-right
+image: https://source.unsplash.com/collection/94734566/1920x1080
+---
+# Bases de Nuxt
+---
+src: ./pages/nuxt-basis/introduction.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/dx.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/installation.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/application.md
+hide: false 
+---
+---
+layout: image-right
+image: https://source.unsplash.com/collection/94734566/1920x1080
+---
+# Architecture d'une application Nuxt
+---
+src: ./pages/nuxt-basis/architecture/components.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/architecture/components2.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/architecture/pages.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/architecture/layout.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/architecture/composables.md
+hide: false 
+---
 # Learn More
 
 [Documentations](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/showcases.html)
+
