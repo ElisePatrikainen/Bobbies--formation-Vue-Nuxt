@@ -314,6 +314,23 @@ hide: false
 layout: image-right
 image: https://source.unsplash.com/collection/94734566/1920x1080
 ---
+# Routing
+---
+src: ./pages/nuxt-basis/routing/intro.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/routing/dynamic.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/routing/application.md
+hide: false 
+---
+---
+layout: image-right
+image: https://source.unsplash.com/collection/94734566/1920x1080
+---
 # Data fetching
 ---
 src: ./pages/nuxt-basis/data-fetching/use-async-data.md
