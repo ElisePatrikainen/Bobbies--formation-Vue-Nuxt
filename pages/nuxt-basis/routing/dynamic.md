@@ -1,5 +1,5 @@
 # Dynamic routing
 
 
-(Faire apparaître en second) avec la syntaxe [xxx]
-+ montrer comment cela fonctionne : xxx passé automatiquement en props*
+- [File based routing](https://nuxt.com/docs/getting-started/routing) : syntaxe  `[param]` dans le nom du fichier
+- Récupération des fragments : via le composable (`const { params } = useRoute()`)

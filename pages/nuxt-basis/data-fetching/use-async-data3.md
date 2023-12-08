@@ -1,17 +1,10 @@
 # $fetch vs useFetch
 
-`$fetch` : 
+`useFetch` : 
 
 ```html
 <script>
-const data = ref()
-const pending = ref(false)
-const error = ref()
-
-pending.value = true;
-try {
-    data.value = await fetch('xxx')
-}
+const { data, pending, error } = useFetch('xxx')
 </script>
 
 <template>

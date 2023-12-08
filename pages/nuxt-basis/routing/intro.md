@@ -1,12 +1,9 @@
 # Routing
 
-File based routing : configuration du router faite par l'arborescence du dossier `page`
+*Nb: basé sur Vue Router*
 
-
-Todo: montrer comment récupérer  le router depuis l'instance du composant
-et co
-
-Question : comment faire des routes dynamiques ? 
-
-
-Mais pe dans un second temps
+- [File based routing](https://nuxt.com/docs/getting-started/routing) : syntaxe  `[param]` dans le nom du fichier
+- Liens : built-in component [`<NuxtLink>`](https://nuxt.com/docs/api/components/nuxt-link)
+- Accès au router (navigation programmatique, récupération des fragments, etc.) : 
+    - composable [`useRouter`](https://nuxt.com/docs/api/composables/use-router)
+    - `$router` dans le template

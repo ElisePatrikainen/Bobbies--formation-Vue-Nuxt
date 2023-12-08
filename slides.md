@@ -302,6 +302,44 @@ hide: false
 src: ./pages/nuxt-basis/architecture/composables.md
 hide: false 
 ---
+---
+src: ./pages/nuxt-basis/architecture/application.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/architecture/application-source.md
+hide: false 
+---
+---
+layout: image-right
+image: https://source.unsplash.com/collection/94734566/1920x1080
+---
+# Data fetching
+---
+src: ./pages/nuxt-basis/data-fetching/use-async-data.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/data-fetching/use-async-data2.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/data-fetching/use-async-data3.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/data-fetching/fetch-async.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/data-fetching/notes.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/data-fetching/application.md
+hide: false 
+---
+---
 # Learn More
 
 [Documentations](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/showcases.html)

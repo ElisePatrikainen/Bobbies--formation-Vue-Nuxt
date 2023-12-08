@@ -4,9 +4,9 @@ On peut utiliser avec Nuxt n'importe quelle solution de data-fetching : fetch, a
 
 Mais Nuxt propose sa propre solution, qui a en particulier l'intérêt de :
 - proposer une gestion de l'état serveur
-- $etre optimisée pour le SSR (on en parlera après). 
+- être optimisée pour le SSR (on en parlera après). 
 
-Voir le poids de cette solution (pour comparaison)
-
-La solution : un composable, `use-async-data` qui est basé sur ohmyfetch (à vérifier), solution JS optimisées pour SSR.
+La solution : 
+- [`$fetch`](https://nuxt.com/docs/api/utils/dollarfetch), un helper basé sur [`ofetch`](https://github.com/unjs/ofetch)
+- deux composables, [`useAsyncData`](https://nuxt.com/docs/api/composables/use-async-data) et [`useFetch`](https://nuxt.com/docs/api/composables/use-fetch)
 
