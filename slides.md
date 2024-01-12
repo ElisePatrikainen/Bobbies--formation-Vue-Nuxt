@@ -324,6 +324,18 @@ src: ./pages/nuxt-basis/routing/dynamic.md
 hide: false 
 ---
 ---
+src: ./pages/nuxt-basis/routing/middleware.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/routing/middleware2.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/routing/middleware3.md
+hide: false 
+---
+---
 src: ./pages/nuxt-basis/routing/application.md
 hide: false 
 ---
@@ -353,7 +365,24 @@ src: ./pages/nuxt-basis/data-fetching/notes.md
 hide: false 
 ---
 ---
+src: ./pages/nuxt-basis/data-fetching/lazy-fetch.md
+hide: false 
+---
+---
+src: ./pages/nuxt-basis/data-fetching/lazy-fetch2.md
+hide: false 
+---
+---
 src: ./pages/nuxt-basis/data-fetching/application.md
+hide: false 
+---
+---
+layout: image-right
+image: https://source.unsplash.com/collection/94734566/1920x1080
+---
+# Application (synthèse)
+---
+src: ./pages/nuxt-basis/application2.md
 hide: false 
 ---
 ---

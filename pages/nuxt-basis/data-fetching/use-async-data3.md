@@ -4,7 +4,7 @@
 
 ```html
 <script>
-const { data, pending, error } = useFetch('xxx')
+const { data, pending, error } = await useFetch('xxx')
 </script>
 
 <template>
