@@ -5,5 +5,3 @@ Idée :
 - envoyer parallèlement le JS de la SPA au client, qui l'exécute
 - une fois le JS prêt à être exécuté, on "connecte" ce JS avec le HTML préalablement envoyé : c'est l'hydratation
 - l'application fonctionne ensuite comme une SPA standard
-
-// TODO : trouver une démo
