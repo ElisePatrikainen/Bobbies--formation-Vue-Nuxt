@@ -1,4 +1,4 @@
-# Application
+# Application #1
 
 1. Afficher, sur la page de détail d'un produit, ses informations à partir de l'API suivante : https://fakestoreapi.com/
 

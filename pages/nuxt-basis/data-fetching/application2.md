@@ -1,4 +1,4 @@
-# Application 2
+# Application #2
 
 Implémenter les spécifications suivantes :
 - gérer le chargement côté client de la page home (sans bloquer la navigation), optimiser la payload, ajouter un bouton permettant de reactualiser la liste des produits

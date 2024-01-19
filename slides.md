@@ -385,6 +385,10 @@ src: ./pages/nuxt-basis/data-fetching/options.md
 hide: false 
 ---
 ---
+src: ./pages/nuxt-basis/data-fetching/options2.md
+hide: false 
+---
+---
 src: ./pages/nuxt-basis/data-fetching/application.md
 hide: false 
 ---
